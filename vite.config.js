@@ -13,6 +13,7 @@ export default defineConfig({
         short_name: 'Short name of your app',
         description: 'Description of your app',
         theme_color: '#ffffff',
+        start_url: '/vite-pwa-sample/',
         icons: [
           {
             src: 'android-chrome-192x192.png',
